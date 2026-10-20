@@ -1,0 +1,6 @@
+Django
+celery
+django-celery-results
+django-celery-beat
+redis
+python-dotenv
